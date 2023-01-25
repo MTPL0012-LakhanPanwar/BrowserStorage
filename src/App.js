@@ -10,6 +10,6 @@ function App() {
       <CookiApp/>
     </div>
   );
-}
+} 
 
 export default App;
