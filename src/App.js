@@ -4,7 +4,7 @@ import LoginApp from './traning/local';
 import CookiApp from './traning/cooki';
 function App() {
   return (
-    <div className="App">
+    <div className="App"> 
       <FormApp/>
       <LoginApp/>
       <CookiApp/>
